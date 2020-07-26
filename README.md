@@ -1,4 +1,4 @@
- Project created via following tutorial at -> https://www.youtube.com/watch?v=khJlrj3Y6Ls
+ Project created via following tutorial At -> https://www.youtube.com/watch?v=khJlrj3Y6Ls
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
